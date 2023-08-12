@@ -1,0 +1,11 @@
+body
+{
+    background-image: url('https://html.sammy-codes.com/images/background.jpg');
+}
+#colored
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: rgb(248, 243, 204);
+
+}
